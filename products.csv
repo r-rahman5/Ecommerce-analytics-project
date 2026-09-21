@@ -1,0 +1,34 @@
+product_id,product_name,category,brand,list_price,unit_cost
+1001,Core Running Shoes,Running,EverMove,154.96,82.77
+1002,Pro Running Shoes,Running,NorthPeak,168.08,101.07
+1003,Standard Running Jacket,Running,northpeak,49.6,33.41
+1004,Standard Running Tights,Running,evermove,152.98,95.52
+1005,Standard Sports Bra,Running,StrideLab,54.86,29.47
+1006,Standard Running Watch,Running,Apex Motion,92.47,61.12
+1007,Core Training Shoes,Training,Apex Motion,81.54,51.69
+1008,Pro Training Shoes,Training,Apex Motion,59.89,28.69
+1009,Standard Training Shorts,Training,evermove,71.9,31.39
+1010,Standard Training Top,Training,northpeak,101.38,59.23
+1011,Standard Gym Bag,Training,EverMove,93.87,48.08
+1012,Standard Resistance Bands,Training,EverMove,116.84,76.2
+1013,Standard Hoodie,Lifestyle,coreform,88.95,41.86
+1014,Standard Joggers,Lifestyle,NorthPeak,59.34,25.6
+1015,Standard Oversized T-Shirt,Lifestyle,CoreForm,29.66,17.72
+1016,Standard Sneakers,Lifestyle,UrbanTrail,85.75,57.59
+1017,Standard Cap,Lifestyle,NorthPeak,45.95,23.72
+1018,Standard Rain Jacket,Outdoor,NorthPeak,116.56,54.7
+1019,Standard Fleece,Outdoor,NorthPeak,50.33,27.36
+1020,Standard Hiking Trousers,Outdoor,Apex Motion,69.25,41.15
+1021,Standard Trail Shoes,Outdoor,Apex Motion,110.24,70.17
+1022,Standard Backpack,Outdoor,CoreForm,161.55,80.97
+1023,Standard Water Bottle,Accessories,coreform,71.75,45.15
+1024,Standard Socks,Accessories,NorthPeak,36.61,18.12
+1025,Standard Beanie,Accessories,coreform,59.92,27.34
+1026,Standard Phone Armband,Accessories,Apex Motion,21.79,9.19
+1027,Standard Sunglasses,Accessories,EverMove,68.17,40.42
+1028,Standard Yoga Mat,Wellness,evermove,115.19,71.76
+1029,Standard Foam Roller,Wellness,EverMove,77.76,44.16
+1030,Standard Massage Ball,Wellness,CoreForm,29.25,13.16
+1031,Core Fitness Tracker,Wellness,UrbanTrail,109.6,59.46
+1032,Pro Fitness Tracker,Wellness,Apex Motion,93.92,58.13
+1033,Standard Shaker Bottle,Wellness,UrbanTrail,104.48,58.92
