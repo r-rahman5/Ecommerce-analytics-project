@@ -1,0 +1,9 @@
+customers_raw_rows: 20035
+customers_unique: 20000
+products_rows: 33
+orders_raw_rows: 65060
+orders_unique: 65000
+order_items_rows: 109999
+marketing_rows: 72
+date_min: 2025-01-01 00:09:00
+date_max: 2025-12-31 23:56:00

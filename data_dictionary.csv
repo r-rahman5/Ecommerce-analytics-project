@@ -1,0 +1,30 @@
+table,column,description,type
+customers,customer_id,Unique customer identifier,INTEGER
+customers,signup_date,Date customer signed up,DATE
+customers,age,Customer age,INTEGER
+customers,region,UK region grouping,TEXT
+customers,acquisition_channel,First acquisition channel,TEXT
+customers,loyalty_tier,Customer loyalty tier,TEXT
+products,product_id,Unique product identifier,INTEGER
+products,product_name,Product name,TEXT
+products,category,Product category,TEXT
+products,brand,Synthetic brand,TEXT
+products,list_price,Full product price,DECIMAL
+products,unit_cost,Estimated unit cost,DECIMAL
+orders,order_id,Unique order identifier,BIGINT
+orders,customer_id,Customer placing order,INTEGER
+orders,order_datetime,Timestamp of order,TIMESTAMP
+orders,status,Order status,TEXT
+orders,payment_method,Payment method,TEXT
+orders,device,Device used,TEXT
+order_items,order_id,Order identifier,BIGINT
+order_items,product_id,Product identifier,INTEGER
+order_items,quantity,Units purchased,INTEGER
+order_items,unit_price,Actual selling price,DECIMAL
+order_items,unit_cost,Estimated unit cost,DECIMAL
+order_items,discount_pct,Discount applied as decimal,DECIMAL
+marketing_spend,month,Month of spend,DATE
+marketing_spend,channel,Marketing channel,TEXT
+marketing_spend,spend,Marketing spend,DECIMAL
+marketing_spend,impressions,Ad impressions,BIGINT
+marketing_spend,clicks,Ad clicks,BIGINT
